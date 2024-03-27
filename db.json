@@ -1,109 +1,107 @@
 {
-  "pendingObjects":
-[
-  {
-    "MessageId": "e0bdeff3-b59c-4c90-b012-3fb37c81dadb",
-    "OrganizationID": 42,
-    "OriginalUserID": 789,
-    "ContentTypeID": 3,
-    "Status": 2,
-    "FilePath": "/path/to/file_1.txt",
-    "Provider": "Email",
-    "OriginalFileName": "file_1.txt"
-  },
-  {
-    "MessageId": "6abf35a7-f8a7-48a3-b6a7-2d8a1b61f07d",
-    "OrganizationID": 71,
-    "OriginalUserID": 234,
-    "ContentTypeID": 8,
-    "Status": 1,
-    "FilePath": "/path/to/file_2.txt",
-    "Provider": "OneDrive",
-    "OriginalFileName": "file_2.txt"
-  },
-  {
-    "MessageId": "98f6478e-6bc7-472a-a3ff-758e1eae87a5",
-    "OrganizationID": 17,
-    "OriginalUserID": 501,
-    "ContentTypeID": 6,
-    "Status": 3,
-    "FilePath": "/path/to/file_3.txt",
-    "Provider": "FileSystem",
-    "OriginalFileName": "file_3.txt"
-  },
-  {
-    "MessageId": "9dc1d2c0-f312-4850-9dcb-64617d7591de",
-    "OrganizationID": 90,
-    "OriginalUserID": 812,
-    "ContentTypeID": 2,
-    "Status": 2,
-    "FilePath": "/path/to/file_4.txt",
-    "Provider": "Email",
-    "OriginalFileName": "file_4.txt"
-  },
-  {
-    "MessageId": "edc8f017-8134-4a5b-b453-9258326e1453",
-    "OrganizationID": 5,
-    "OriginalUserID": 145,
-    "ContentTypeID": 9,
-    "Status": 1,
-    "FilePath": "/path/to/file_5.txt",
-    "Provider": "OneDrive",
-    "OriginalFileName": "file_5.txt"
-  },
-  {
-    "MessageId": "9ab8b41c-1911-45e1-bc42-42982b190ed1",
-    "OrganizationID": 33,
-    "OriginalUserID": 927,
-    "ContentTypeID": 7,
-    "Status": 3,
-    "FilePath": "/path/to/file_6.txt",
-    "Provider": "FileSystem",
-    "OriginalFileName": "file_6.txt"
-  },
-  {
-    "MessageId": "acbe9225-6f94-41d1-9917-ff75e79fb7f3",
-    "OrganizationID": 12,
-    "OriginalUserID": 632,
-    "ContentTypeID": 1,
-    "Status": 2,
-    "FilePath": "/path/to/file_7.txt",
-    "Provider": "Email",
-    "OriginalFileName": "file_7.txt"
-  },
-  {
-    "MessageId": "82beaa48-06d8-4a82-8e9d-cd7ff75d4f48",
-    "OrganizationID": 58,
-    "OriginalUserID": 381,
-    "ContentTypeID": 4,
-    "Status": 1,
-    "FilePath": "/path/to/file_8.txt",
-    "Provider": "OneDrive",
-    "OriginalFileName": "file_8.txt"
-  },
-  {
-    "MessageId": "bd14aef3-7e48-43b3-871b-af789f1e2423",
-    "OrganizationID": 25,
-    "OriginalUserID": 876,
-    "ContentTypeID": 5,
-    "Status": 3,
-    "FilePath": "/path/to/file_9.txt",
-    "Provider": "FileSystem",
-    "OriginalFileName": "file_9.txt"
-  },
-  {
-    "MessageId": "06bb087d-cda5-4b3e-a260-5a4dce9cb3a2",
-    "OrganizationID": 77,
-    "OriginalUserID": 123,
-    "ContentTypeID": 10,
-    "Status": 2,
-    "FilePath": "/path/to/file_10.txt",
-    "Provider": "Email",
-    "OriginalFileName": "file_10.txt"
-  }
-],
-{
-  "Results": [
+  "pendingObjects": [
+    {
+      "MessageId": "e0bdeff3-b59c-4c90-b012-3fb37c81dadb",
+      "OrganizationID": 42,
+      "OriginalUserID": 789,
+      "ContentTypeID": 3,
+      "Status": 2,
+      "FilePath": "/path/to/file_1.txt",
+      "Provider": "Email",
+      "OriginalFileName": "file_1.txt"
+    },
+    {
+      "MessageId": "6abf35a7-f8a7-48a3-b6a7-2d8a1b61f07d",
+      "OrganizationID": 71,
+      "OriginalUserID": 234,
+      "ContentTypeID": 8,
+      "Status": 1,
+      "FilePath": "/path/to/file_2.txt",
+      "Provider": "OneDrive",
+      "OriginalFileName": "file_2.txt"
+    },
+    {
+      "MessageId": "98f6478e-6bc7-472a-a3ff-758e1eae87a5",
+      "OrganizationID": 17,
+      "OriginalUserID": 501,
+      "ContentTypeID": 6,
+      "Status": 3,
+      "FilePath": "/path/to/file_3.txt",
+      "Provider": "FileSystem",
+      "OriginalFileName": "file_3.txt"
+    },
+    {
+      "MessageId": "9dc1d2c0-f312-4850-9dcb-64617d7591de",
+      "OrganizationID": 90,
+      "OriginalUserID": 812,
+      "ContentTypeID": 2,
+      "Status": 2,
+      "FilePath": "/path/to/file_4.txt",
+      "Provider": "Email",
+      "OriginalFileName": "file_4.txt"
+    },
+    {
+      "MessageId": "edc8f017-8134-4a5b-b453-9258326e1453",
+      "OrganizationID": 5,
+      "OriginalUserID": 145,
+      "ContentTypeID": 9,
+      "Status": 1,
+      "FilePath": "/path/to/file_5.txt",
+      "Provider": "OneDrive",
+      "OriginalFileName": "file_5.txt"
+    },
+    {
+      "MessageId": "9ab8b41c-1911-45e1-bc42-42982b190ed1",
+      "OrganizationID": 33,
+      "OriginalUserID": 927,
+      "ContentTypeID": 7,
+      "Status": 3,
+      "FilePath": "/path/to/file_6.txt",
+      "Provider": "FileSystem",
+      "OriginalFileName": "file_6.txt"
+    },
+    {
+      "MessageId": "acbe9225-6f94-41d1-9917-ff75e79fb7f3",
+      "OrganizationID": 12,
+      "OriginalUserID": 632,
+      "ContentTypeID": 1,
+      "Status": 2,
+      "FilePath": "/path/to/file_7.txt",
+      "Provider": "Email",
+      "OriginalFileName": "file_7.txt"
+    },
+    {
+      "MessageId": "82beaa48-06d8-4a82-8e9d-cd7ff75d4f48",
+      "OrganizationID": 58,
+      "OriginalUserID": 381,
+      "ContentTypeID": 4,
+      "Status": 1,
+      "FilePath": "/path/to/file_8.txt",
+      "Provider": "OneDrive",
+      "OriginalFileName": "file_8.txt"
+    },
+    {
+      "MessageId": "bd14aef3-7e48-43b3-871b-af789f1e2423",
+      "OrganizationID": 25,
+      "OriginalUserID": 876,
+      "ContentTypeID": 5,
+      "Status": 3,
+      "FilePath": "/path/to/file_9.txt",
+      "Provider": "FileSystem",
+      "OriginalFileName": "file_9.txt"
+    },
+    {
+      "MessageId": "06bb087d-cda5-4b3e-a260-5a4dce9cb3a2",
+      "OrganizationID": 77,
+      "OriginalUserID": 123,
+      "ContentTypeID": 10,
+      "Status": 2,
+      "FilePath": "/path/to/file_10.txt",
+      "Provider": "Email",
+      "OriginalFileName": "file_10.txt"
+    }
+  ],
+  "results": [
     {
       "ResultForMessage": {
         "MessageId": "eaf5b389-1608-4c16-9c05-4a88c3c791bf",
@@ -174,5 +172,4 @@
       }
     }
   ]
-}
 }
