@@ -101,3 +101,76 @@
     "OriginalFileName": "file_10.txt"
   }
 ],
+{
+  "Results": [
+    {
+      "ResultForMessage": {
+        "MessageId": "eaf5b389-1608-4c16-9c05-4a88c3c791bf",
+        "Result": [
+          {
+            "FieldCode": "Name",
+            "Results": [
+              {
+                "DocumentIntelligenceProvider": 1,
+                "IsSelected": false,
+                "ValueNum": null,
+                "ValueStr": "EN IT S.A.S.",
+                "ValueDate": null
+              }
+            ]
+          },
+          {
+            "FieldCode": "F_fecha",
+            "Results": [
+              {
+                "DocumentIntelligenceProvider": 1,
+                "IsSelected": false,
+                "ValueNum": null,
+                "ValueStr": "30/1/2024 00:00:00 +00:00",
+                "ValueDate": null
+              },
+              {
+                "DocumentIntelligenceProvider": 2,
+                "IsSelected": false,
+                "ValueNum": null,
+                "ValueStr": "09/02/2024",
+                "ValueDate": "2024-02-09T00:00:00"
+              }
+            ]
+          },
+          {
+            "FieldCode": "F_n_factura",
+            "Results": [
+              {
+                "DocumentIntelligenceProvider": 1,
+                "IsSelected": false,
+                "ValueNum": null,
+                "ValueStr": "00000010",
+                "ValueDate": null
+              },
+              {
+                "DocumentIntelligenceProvider": 2,
+                "IsSelected": false,
+                "ValueNum": 74057621780223.0000000000,
+                "ValueStr": "74057621780223",
+                "ValueDate": null
+              }
+            ]
+          },
+          {
+            "FieldCode": "mont",
+            "Results": [
+              {
+                "DocumentIntelligenceProvider": 1,
+                "IsSelected": false,
+                "ValueNum": null,
+                "ValueStr": "221500",
+                "ValueDate": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
