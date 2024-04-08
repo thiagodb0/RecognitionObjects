@@ -108,7 +108,7 @@
         "Result": [
           {
             "FieldCode": "Name",
-            "Type": "string",
+            "Type": "String",
             "Results": [
               {
                 "DocumentIntelligenceProvider": 1,
@@ -121,7 +121,7 @@
           },
           {
             "FieldCode": "F_fecha",
-            "Type": "date",
+            "Type": "DateTime",
             "Results": [
               {
                 "DocumentIntelligenceProvider": 1,
@@ -141,7 +141,7 @@
           },
           {
             "FieldCode": "F_n_factura",
-            "Type": "number",
+            "Type": "Numeric",
             "Results": [
               {
                 "DocumentIntelligenceProvider": 1,
@@ -161,7 +161,7 @@
           },
           {
             "FieldCode": "mont",
-            "Type": "number",
+            "Type": "Numeric",
             "Results": [
               {
                 "DocumentIntelligenceProvider": 1,
