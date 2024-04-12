@@ -171,6 +171,19 @@
                 "ValueDate": null
               }
             ]
+          },
+          {
+            "FieldCode": "testEmpty",
+            "Type": "String",
+            "Results": [
+              {
+                "DocumentIntelligenceProvider": 1,
+                "IsSelected": false,
+                "ValueNum": null,
+                "ValueStr": null,
+                "ValueDate": null
+              }
+            ]
           }
         ]
       }
